@@ -1,0 +1,7 @@
+How will client interactions take place ?
+    Start the game - Enter all details
+    makeMove() - user to enter location
+    displayBoard()
+    checkStatus() - Check if someone has won
+    undo()
+    getWinner() - Display winner if someone has won
